@@ -48,4 +48,4 @@ python Miner.py
 7. Just wait until UltraDOCU start the miner choosed and shows the result of every shares sended !
 
 # 🛠️ How to create my own Add-on ?
-- If you want to create you own Add-on just go to the <a href="https://github.com/DJOPRO-YT/UltraDUCO/wiki">Wiki</a>!
+- If you want to create you own Add-on just check our <a href="https://github.com/DJOPRO-YT/UltraDUCO/wiki">Wiki</a> !
