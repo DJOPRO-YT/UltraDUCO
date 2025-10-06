@@ -41,7 +41,7 @@ python Miner.py
 4. Now the system will tell if you want to choose between the Default Miner or one of the Add-ons by entering **D** or **A**.
 
 > [!NOTE]
-> If you have choosed the Add-on option, He will do a quick verification on the Addons Folder located at `UltraDUCO/Addons`, After that you need to choose between the available Add-ons that are found by entering her index.
+> If you choose the Add-on option, He will do a quick verification on the Addons Folder located at `UltraDUCO/Addons`, After that you need to choose between the available Add-ons that are found by entering her index.
 
 5. After Choosing the Miner to use, The system will connects you to the Fastest Pool and tells you some informations about the pool that he is connecting to it !
 6. After that, The system will tell you to choose the difficuly of the Job that will be requested by the pool (`HIGH` `MEDIUM` `LOW`).
